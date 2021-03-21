@@ -1,4 +1,4 @@
-# notify
+# notify-app
 
 ## Project setup
 
